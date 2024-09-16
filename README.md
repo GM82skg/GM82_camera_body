@@ -37,4 +37,6 @@ Simple. There are three options to fit better for your project needs.
 
 # This work is still in progress.
 
+   * ~~ The STL files will be available soon... ~~
+
 Please follow the [official CinePi project](https://github.com/cinepi).

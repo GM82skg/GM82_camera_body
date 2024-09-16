@@ -34,6 +34,6 @@ Simple. There are three options to fit better for your project needs.
    ![img](https://github.com/GM82skg/GM82_camera_body/blob/main/imgs/505.png)
    ![img](https://github.com/GM82skg/GM82_camera_body/blob/main/imgs/506.png)
 
-
+# This work is still in progress.
 
 Please follow the [official CinePi project](https://github.com/cinepi).

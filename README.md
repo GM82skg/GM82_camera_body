@@ -4,7 +4,7 @@
 
 Hello all!
 
-I’ve designed a 3D-printable camera body, optimized for the CinePI project. The body features a compact form, ensuring both durability and ease of assembly. It’s designed to accommodate all necessary components, with precise cutouts for ports and buttons, ventilation for heat management, and mounting options for accessories. This custom body offers a balance of functionality and aesthetics, perfect for anyone looking to build a robust, DIY cinema camera.
+I’ve designed a 3D-printable camera body, optimized for the [CinePI](https://github.com/cinepi) project. The body features a compact form, ensuring both durability and ease of assembly. It’s designed to accommodate all necessary components, with precise cutouts for ports and buttons, ventilation for heat management, and mounting options for accessories. This custom body offers a balance of functionality and aesthetics, perfect for anyone looking to build a robust, DIY cinema camera.
 
 # Dimensions
 

@@ -9,8 +9,8 @@ I’ve designed a 3D-printable camera body, optimized for the CinePI project. Th
 Simple. There are three options to fit better for your project needs.
 
 1. Full body (no screen cutout)
-![img](https://github.com/GM82skg/GM82_camera_body/blob/main/images/501.png)
-![img](https://github.com/GM82skg/GM82_camera_body/blob/main/images/502.png)
+![img](https://github.com/GM82skg/GM82_camera_body/blob/main/imgs/501.png)
+![img](https://github.com/GM82skg/GM82_camera_body/blob/main/imgs/502.png)
 
 3. With a screen cutout (fits the HyperPixel 4" square)
 

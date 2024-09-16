@@ -1,1 +1,1 @@
-# GM82_camera_case
+# GM82_camera_body

@@ -1,1 +1,1 @@
-# cinepi_case_v2
+# GM82_camera_case

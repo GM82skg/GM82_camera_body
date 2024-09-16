@@ -6,6 +6,14 @@ Hello all!
 
 I’ve designed a 3D-printable camera body, optimized for the CinePI project. The body features a compact form, ensuring both durability and ease of assembly. It’s designed to accommodate all necessary components, with precise cutouts for ports and buttons, ventilation for heat management, and mounting options for accessories. This custom body offers a balance of functionality and aesthetics, perfect for anyone looking to build a robust, DIY cinema camera.
 
+# Dimensions
+
+```
+Width: 92 mm
+Height: 96 mm
+Depth: 117 mm
+```
+
 # With a screen or without?
 
 Simple. There are three options to fit better for your project needs.
@@ -27,10 +35,5 @@ Simple. There are three options to fit better for your project needs.
    ![img](https://github.com/GM82skg/GM82_camera_body/blob/main/imgs/506.png)
 
 
-# Dimensions
 
-```
-Width: 92 mm
-Height: 92 mm
-Depth: 117 mm
-```
+Please follow the [official CinePi project](https://github.com/cinepi).

@@ -24,7 +24,7 @@ Simple. There are three options to fit better for your project needs.
 3. With a screen cutout (fits the HyperPixel 4" square)
    ![img](https://github.com/GM82skg/GM82_camera_body/blob/main/imgs/501.png)
 
-5. With a screen cutout...but also a cover for the cutout, in case you don't to use a screen now, but maybe in the future!
+5. With a screen cutout...but also a cover for the cutout, in case you don't need to use a screen now, but maybe in the future!
    ![img](https://github.com/GM82skg/GM82_camera_body/blob/main/imgs/502.png)
 
 

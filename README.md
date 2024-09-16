@@ -25,3 +25,12 @@ Simple. There are three options to fit better for your project needs.
    ![img](https://github.com/GM82skg/GM82_camera_body/blob/main/imgs/402.png)
    ![img](https://github.com/GM82skg/GM82_camera_body/blob/main/imgs/505.png)
    ![img](https://github.com/GM82skg/GM82_camera_body/blob/main/imgs/506.png)
+
+
+# Dimensions
+
+```
+Width: 92 mm
+Height: 92 mm
+Depth: 117 mm
+```
